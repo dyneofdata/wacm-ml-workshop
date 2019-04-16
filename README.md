@@ -13,4 +13,5 @@ Walking through basic machine learning concepts and algorithms with Python
   
 ### Companion slides
 
-Coming soon! The codes in the Jupyter Notebook will be stepped through for the corresponding topic in the slidedeck.
+The codes in the Jupyter Notebook will be stepped through for the corresponding topic in the slidedeck.
+[April 17th 2019 workshop slides](https://docs.google.com/presentation/d/1-OuTy4q7KstYEmYW9N11GoHzGcVarr6e3MpRWb5o8Fs/edit?usp=sharing)
