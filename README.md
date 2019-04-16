@@ -2,7 +2,7 @@
 
 Walking through basic machine learning concepts and algorithms with Python
 
-### Dependencies
+## Dependencies
 
 1. [Anaconda for Python 3](https://docs.anaconda.com/anaconda/install/) comes with Jupyter notebook and needed libraries, e.g., numpy, scikit-learn, matplotlib, seaborn.
 2. Graphviz is needed to visualize learned decision tree. To install, run in command line:
@@ -11,8 +11,8 @@ Walking through basic machine learning concepts and algorithms with Python
   conda install graphviz
   ```
   
-### Companion slides
+## Companion slides
 
 The codes in the Jupyter Notebook will be stepped through for the corresponding topic in the slidedeck.
 
-[April 17th 2019 workshop slides](https://docs.google.com/presentation/d/1-OuTy4q7KstYEmYW9N11GoHzGcVarr6e3MpRWb5o8Fs/edit?usp=sharing)
+* [April 17th 2019 workshop slides](https://docs.google.com/presentation/d/1-OuTy4q7KstYEmYW9N11GoHzGcVarr6e3MpRWb5o8Fs/edit?usp=sharing)
